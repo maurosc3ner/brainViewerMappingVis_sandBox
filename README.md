@@ -6,5 +6,6 @@ This is a self-contained example that allows initial load of a NY brain model. T
 
 How to:
 Unpack *.7z file of image 
+
 Run node server to avoid cross-origin $http-server -c-1
 Open in your favorite browser http://127.0.0.1:8080
